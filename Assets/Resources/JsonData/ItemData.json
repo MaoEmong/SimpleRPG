@@ -1,0 +1,386 @@
+[
+  {
+    "ItemCode": 0,
+    "ItemName": "낡은 도끼",
+    "ItemExplan": "낡고 녹슨 도끼.",
+    "Sell": 10
+  },
+  {
+    "ItemCode": 1,
+    "ItemName": "헤진 갑옷",
+    "ItemExplan": "오래되어 헤진 갑옷이다.",
+    "Sell": 10
+  },
+  {
+    "ItemCode": 2,
+    "ItemName": "잘익은 과일",
+    "ItemExplan": "빨갛게 잘 익은 탐스러운 과일이다.",
+    "Sell": 10
+  },
+  {
+    "ItemCode": 3,
+    "ItemName": "오래된 책",
+    "ItemExplan": "알수 없는 언어로 작성된 책",
+    "Sell": 20
+  },
+  {
+    "ItemCode": 4,
+    "ItemName": "푸른 보석",
+    "ItemExplan": "푸른빛의 영롱한 보석",
+    "Sell": 30
+  },
+  {
+    "ItemCode": 5,
+    "ItemName": "오래된 동전",
+    "ItemExplan": "현재는 사용하지 않는듯 하다",
+    "Sell": 20
+  },
+  {
+    "ItemCode": 6,
+    "ItemName": "거친 광석",
+    "ItemExplan": "취급하지 않는 값싼 광석",
+    "Sell": 30
+  },
+  {
+    "ItemCode": 7,
+    "ItemName": "몬스터의 체액",
+    "ItemExplan": "끈적거리는 기분 나쁜 액체",
+    "Sell": 15
+  },
+  {
+    "ItemCode": 8,
+    "ItemName": "몬스터의 고기",
+    "ItemExplan": "알수없는 냄새가 난다",
+    "Sell": 25
+  },
+  {
+    "ItemCode": 9,
+    "ItemName": "부러진 장검",
+    "ItemExplan": "값어치가 없는 검",
+    "Sell": 20
+  },
+  {
+    "ItemCode": 10,
+    "ItemName": "빛나는 목걸이",
+    "ItemExplan": "누군가 잃어버린 목걸이",
+    "Sell": 50
+  },
+  {
+    "ItemCode": 11,
+    "ItemName": "낡은 반지",
+    "ItemExplan": "안쪽에 알수없는 언어가 쓰여있다",
+    "Sell": 50
+  },
+  {
+    "ItemCode": 12,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 13,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 14,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 15,
+    "ItemName": "회복포션",
+    "ItemExplan": "체력을 회복시켜준다",
+    "Sell": 100
+  },
+  {
+    "ItemCode": 16,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 17,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 18,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 19,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 20,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 21,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 22,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 23,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 24,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 25,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 26,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 27,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 28,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 29,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 30,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 31,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 32,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 33,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 34,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 35,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 36,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 37,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 38,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 39,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 40,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 41,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 42,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 43,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 44,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 45,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 46,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 47,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 48,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 49,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 50,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 51,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 52,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 53,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 54,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 55,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 56,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 57,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 58,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 59,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 60,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 61,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 62,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  },
+  {
+    "ItemCode": 63,
+    "ItemName": "",
+    "ItemExplan": "",
+    "Sell": 0
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "슬라임",
+    "Level": 1,
+    "MaxHp": 30,
+    "Hp": 30,
+    "EXP": 3,
+    "Str": 8,
+    "Dex": 7,
+    "Sti": 7,
+    "Luk": 2
+  },
+  {
+    "Name": "슬라임",
+    "Level": 2,
+    "MaxHp": 40,
+    "Hp": 40,
+    "EXP": 3,
+    "Str": 8,
+    "Dex": 8,
+    "Sti": 7,
+    "Luk": 2
+  },
+  {
+    "Name": "슬라임",
+    "Level": 3,
+    "MaxHp": 40,
+    "Hp": 40,
+    "EXP": 3,
+    "Str": 9,
+    "Dex": 8,
+    "Sti": 8,
+    "Luk": 3
+  },
+  {
+    "Name": "슬라임",
+    "Level": 4,
+    "MaxHp": 50,
+    "Hp": 50,
+    "EXP": 4,
+    "Str": 9,
+    "Dex": 9,
+    "Sti": 8,
+    "Luk": 3
+  },
+  {
+    "Name": "슬라임",
+    "Level": 5,
+    "MaxHp": 50,
+    "Hp": 50,
+    "EXP": 4,
+    "Str": 9,
+    "Dex": 10,
+    "Sti": 8,
+    "Luk": 3
+  }
+]
