@@ -1,0 +1,38 @@
+[
+  {
+    "FeatCode": 0,
+    "FeatExplan": "슬라임 처치",
+    "MaxCount": 10,
+    "CurCount": 10
+  },
+  {
+    "FeatCode": 1,
+    "FeatExplan": "화난버섯 처치",
+    "MaxCount": 10,
+    "CurCount": 0
+  },
+  {
+    "FeatCode": 2,
+    "FeatExplan": "달팽이 처치",
+    "MaxCount": 10,
+    "CurCount": 0
+  },
+  {
+    "FeatCode": 3,
+    "FeatExplan": "선인장 처치",
+    "MaxCount": 10,
+    "CurCount": 0
+  },
+  {
+    "FeatCode": 4,
+    "FeatExplan": "딱정벌레 처치",
+    "MaxCount": 10,
+    "CurCount": 0
+  },
+  {
+    "FeatCode": 5,
+    "FeatExplan": "드래곤 처치",
+    "MaxCount": 1,
+    "CurCount": 0
+  }
+]

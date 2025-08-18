@@ -1,0 +1,15 @@
+{
+  "Name": "테스터",
+  "Level": 3,
+  "MaxHp": 180,
+  "Hp": -1,
+  "Str": 14,
+  "Dex": 4,
+  "Sti": 8,
+  "Luk": 6,
+  "RemainState": 10,
+  "Exp": 29,
+  "Money": 0,
+  "UpgradeWeapon": 5,
+  "ShowFPS": false
+}

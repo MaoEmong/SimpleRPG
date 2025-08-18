@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 70de9f12173acd44687dda4c3834306d, type: 3}
+    - {fileID: 2800000, guid: c57d99f2383cd20418d8aa192f5a5788, type: 3}
+    - {fileID: 2800000, guid: bb61e832897511f418fd439732781ad2, type: 3}
+    - {fileID: 2800000, guid: d2a2c3dabeea03a43ba523ef6d9ffc22, type: 3}
+    - {fileID: 2800000, guid: 125772fa577f22c42971097edbeefae9, type: 3}
+    - {fileID: 2800000, guid: e46cac61e2e0ffd4eacf4576c5d901ff, type: 3}
+    - {fileID: 2800000, guid: a21f6be6da0a2b74abf33a7485612782, type: 3}
+    - {fileID: 2800000, guid: 0b9aaf1443f6b9844a66beafdcf25098, type: 3}
+    - {fileID: 2800000, guid: 7c98ef26d36aa8b4aba693b5f40497fd, type: 3}
+    - {fileID: 2800000, guid: e9f6aafb7c1ac98418d3b3877065d261, type: 3}
+    - {fileID: 2800000, guid: b99133ea3fb2c3f47be0f31b292daf4a, type: 3}
+    - {fileID: 2800000, guid: e4047f1078050064dbc10bd5a407974a, type: 3}
+    - {fileID: 2800000, guid: 14858d71a730b4943b11f958bd10ae50, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: UIAtlas
+  m_IsVariant: 0
